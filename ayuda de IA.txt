@@ -1,0 +1,17 @@
+//AYUDA MAS NOTORIA RECIBIDA CON LA IA//
+
+#1. Correccion de errores y redundancias en codigo por comprobaciones repetidas como id o fecha//
+
+#2. Importacion de modulos como getpass o decimal para comprobaciones mas especificas y en introduccion de contraseña
+#   simular un ambiente mas seguro.
+
+#3. La recomendacion de .strip() al final de cada input por fallas que podian aparecer involucrando espacios en blanco
+
+#4. La primera cosa que pedimos ayuda a la IA fue entregarle la el docx. de nuestra evaluacion 1 para que plasmara a un lado de la pantalla
+#   las necesidades que tendria el codigo como recuerdo o una especie de tablero de tareas a seguir. :3
+
+#5. Algo tambien notorio que se solicito a la IA muy constantemente fue basicamente que se nos señalara que el codigo estuviera en la linea
+#   correcta o que por accidente no se estuviera escribiendo dentro de una condicion 'if' o un 'for' mucha linea de codigo y la IA podia leer
+#   rapidamente y señalar errores (Se le especifico muy claramente de manera constante a la IA que no realice ningun cambio y solo nos señalase que podria mejorar)
+
+///////////////////////////////////////
